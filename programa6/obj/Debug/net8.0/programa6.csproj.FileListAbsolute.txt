@@ -1,0 +1,14 @@
+C:\Users\Compu Fire\Downloads\laboratorio\programa6\bin\Debug\net8.0\programa6.exe
+C:\Users\Compu Fire\Downloads\laboratorio\programa6\bin\Debug\net8.0\programa6.deps.json
+C:\Users\Compu Fire\Downloads\laboratorio\programa6\bin\Debug\net8.0\programa6.runtimeconfig.json
+C:\Users\Compu Fire\Downloads\laboratorio\programa6\bin\Debug\net8.0\programa6.dll
+C:\Users\Compu Fire\Downloads\laboratorio\programa6\bin\Debug\net8.0\programa6.pdb
+C:\Users\Compu Fire\Downloads\laboratorio\programa6\obj\Debug\net8.0\programa6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Compu Fire\Downloads\laboratorio\programa6\obj\Debug\net8.0\programa6.AssemblyInfoInputs.cache
+C:\Users\Compu Fire\Downloads\laboratorio\programa6\obj\Debug\net8.0\programa6.AssemblyInfo.cs
+C:\Users\Compu Fire\Downloads\laboratorio\programa6\obj\Debug\net8.0\programa6.csproj.CoreCompileInputs.cache
+C:\Users\Compu Fire\Downloads\laboratorio\programa6\obj\Debug\net8.0\programa6.dll
+C:\Users\Compu Fire\Downloads\laboratorio\programa6\obj\Debug\net8.0\refint\programa6.dll
+C:\Users\Compu Fire\Downloads\laboratorio\programa6\obj\Debug\net8.0\programa6.pdb
+C:\Users\Compu Fire\Downloads\laboratorio\programa6\obj\Debug\net8.0\programa6.genruntimeconfig.cache
+C:\Users\Compu Fire\Downloads\laboratorio\programa6\obj\Debug\net8.0\ref\programa6.dll
