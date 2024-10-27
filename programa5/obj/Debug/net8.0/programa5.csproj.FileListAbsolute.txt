@@ -1,0 +1,14 @@
+C:\Users\Compu Fire\Downloads\laboratorio\programa5\bin\Debug\net8.0\programa5.exe
+C:\Users\Compu Fire\Downloads\laboratorio\programa5\bin\Debug\net8.0\programa5.deps.json
+C:\Users\Compu Fire\Downloads\laboratorio\programa5\bin\Debug\net8.0\programa5.runtimeconfig.json
+C:\Users\Compu Fire\Downloads\laboratorio\programa5\bin\Debug\net8.0\programa5.dll
+C:\Users\Compu Fire\Downloads\laboratorio\programa5\bin\Debug\net8.0\programa5.pdb
+C:\Users\Compu Fire\Downloads\laboratorio\programa5\obj\Debug\net8.0\programa5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Compu Fire\Downloads\laboratorio\programa5\obj\Debug\net8.0\programa5.AssemblyInfoInputs.cache
+C:\Users\Compu Fire\Downloads\laboratorio\programa5\obj\Debug\net8.0\programa5.AssemblyInfo.cs
+C:\Users\Compu Fire\Downloads\laboratorio\programa5\obj\Debug\net8.0\programa5.csproj.CoreCompileInputs.cache
+C:\Users\Compu Fire\Downloads\laboratorio\programa5\obj\Debug\net8.0\programa5.dll
+C:\Users\Compu Fire\Downloads\laboratorio\programa5\obj\Debug\net8.0\refint\programa5.dll
+C:\Users\Compu Fire\Downloads\laboratorio\programa5\obj\Debug\net8.0\programa5.pdb
+C:\Users\Compu Fire\Downloads\laboratorio\programa5\obj\Debug\net8.0\programa5.genruntimeconfig.cache
+C:\Users\Compu Fire\Downloads\laboratorio\programa5\obj\Debug\net8.0\ref\programa5.dll
